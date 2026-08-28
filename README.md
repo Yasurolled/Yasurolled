@@ -1,4 +1,4 @@
-![Header](./github-header-banne.png)
+![Header](./github-header-banner.png)
 # Hi 👋, I'm Yasu
 
 ### A passionate C developer
