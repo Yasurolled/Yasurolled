@@ -3,7 +3,6 @@
 
 ### A passionate C developer
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yasurolled)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/imjustlonelyas" target="blank"><img src="https://img.shields.io/twitter/follow/imjustlonelyas?logo=twitter&style=for-the-badge" alt="imjustlonelyas" /></a> </p>
 
