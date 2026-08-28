@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/imjustlonelyas" target="blank"><img src="https://img.shields.io/twitter/follow/imjustlonelyas?logo=twitter&style=for-the-badge" alt="imjustlonelyas" /></a> </p>
 
-- 🔭 I'm currently working on **Missionplaner for Linux**
+- 🔭 I'm currently working on **MissionPlanner for Linux**
 
 - 🌱 I'm currently learning **Html,C**
 
@@ -14,13 +14,13 @@
 
 - 🤝 I'm looking for help with **Learning Frontend More**
 
-- 💬 Ask me about **Vocaloid,C,HTMl,Javascript;UNIX/Linux,ESP32/Arduino**
+- 💬 Ask me about **Vocaloid,C,HTMl,Javascript,UNIX/Linux,ESP32/Arduino**
 
 - 📫 How to reach me **yasurolled@gmail.com**
 
 - ⚡ Fun fact **i love microcontrollers**
 
-- 👨‍💻 All of my projects are available at **[https://yasurolled.straw.page/](https://yasurolled.straw.page/)**
+- 👨‍💻 My Website **[https://yasurolled.straw.page/](https://yasurolled.straw.page/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
