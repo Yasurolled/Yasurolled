@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 # Hi 👋, I'm Yasu
 
 ### A passionate C developer
@@ -16,11 +17,11 @@
 
 - 🤝 I'm looking for help with **Learning Frontend More**
 
-- 💬 Ask me about **Vocaloid,C,HTMl,Javascript;UNIX/Linux**
+- 💬 Ask me about **Vocaloid,C,HTMl,Javascript;UNIX/Linux,ESP32/Arduino**
 
 - 📫 How to reach me **yasurolled@gmail.com**
 
-- ⚡ Fun fact **i love computers**
+- ⚡ Fun fact **i love microcontrollers**
 
 - 👨‍💻 All of my projects are available at **[https://yasurolled.straw.page/](https://yasurolled.straw.page/)**
 
