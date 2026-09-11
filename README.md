@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/imjustlonelyas" target="blank"><img src="https://img.shields.io/twitter/follow/imjustlonelyas?logo=twitter&style=for-the-badge" alt="imjustlonelyas" /></a> </p>
 
-- 🔭 I'm currently working on **MissionPlanner for Linux**
+- 🔭 I'm currently working on **Arter a Graphical Text Editor**
 
 - 🌱 I'm currently learning **Html,C**
 
